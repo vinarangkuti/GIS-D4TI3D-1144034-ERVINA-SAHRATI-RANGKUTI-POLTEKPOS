@@ -1,0 +1,5 @@
+MEETING 3-GIS
+
+	This section will explain about Spatial Data were divided into two, namely Raster and Vector Data. Raster data provides spatial information of what is happening everywhere in the form of generalized image. With this model, the real world is presented as a grid of cells are the same. Raster data is converted into geo-reference coordinates by means of registering the georeferencing system. As for the vector data, vector data is a dat which can display, placing and storing spatial data using points, lines, and polygons and their attributes.
+	Vector data has a format, namely SHP (shapefile). SHP format typically used for storing the location, shape, and attributes of geographic features. SHP format, it contains a single object, such as roads, rivers, zip code, or landmark. Specifications shapefile usually consists of three main shp extension, .shx, and .dbf. shp shape to overwrite the data format feature geometry. SHX typically used to facilitate the search. While .dbf contains the attribute table of each feature.Method shapefile usually useful to read the data. For used by us today is Python.
+
